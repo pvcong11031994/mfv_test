@@ -3,10 +3,10 @@
 [![N|Solid](https://careers.moneyforward.vn/assets/logo-footer-b2812cede8e018c3938b930cafa1bc51efd3891bf1035014c7006e9de6e0772d.png)](https://careers.moneyforward.vn/)
 
 ### Requirement
--Implement a Rest API with CRUD functionality.
--Database: MySQL or PostgreSQL (Project current use PostgreSQL)
--Unit test as much as you can.
--Set up service with docker compse.
+- Implement a Rest API with CRUD functionality.
+- Database: MySQL or PostgreSQL (Project current use PostgreSQL)
+- Unit test as much as you can.
+- Set up service with docker compse.
 
 ### Prepare
 1. Install Docker
